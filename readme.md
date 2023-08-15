@@ -20,22 +20,12 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
  
- <a href="https://github.com/daianeklein/imersao-dados-Alura">Data Analysis of Brazilian Education 🏅 🏆 </a>
+ <a href="https://github.com/felipensa/Portf-lio">In progress... </a>
   
-Project Description: Data Imersion was a data analysis competition organized by <a href=https://www.alura.com.br> Alura </a> with thousands Data Science students.
-  
-The objetive of this project was analyze public education data. My analysis aim was evalute how social situation is correlated to students performance.
- My project was chosen as winner by  <a href=https://pt.wikipedia.org/wiki/Atila_Iamarino> Atila Iamarino </a> , brazilian biologist researcher
+Project Description: ...
 
  ***
   
- <a href="https://github.com/daianeklein/bootcamp-Alura/blob/main/Desafio-Modulo4.ipynb">Time Series - COVID-19</a>
-  
-Project Description: This project consists of analyzing COVID-19 contamination in Brazil and how Amazonas state was different from other brazilian states.
-
- Main Techiniques: Data Analysis, Time Series techiniques (as decomposition Time Series, Stationarity test, autocorrelation, etc.). Holt Winters, ARIMA and Prophet algorithms.
-  
- ***
   
   
 <Br>
